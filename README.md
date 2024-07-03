@@ -21,4 +21,3 @@
     
     `{SRC_ROOT}$ mvn package -Prelease`
     
-
